@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "evdev.h": "c",
+        "lv_examples.h": "c",
+        "lv_freetype.h": "c",
+        "lv_demos.h": "c"
+    },
+    "cmake.sourceDirectory": "D:/ub/文件/lv_port_linux_frame_buffer-master/lvgl"
+}
